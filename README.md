@@ -24,7 +24,7 @@ No Front-end da aplicação foi utilizado o **HTML**, **CSS** e **Javascript** e
 
 **Página dos pontos de coleta:**
 
-![](https://github.com/Nathan-Andrade/Ecoleta/blob/master/src/github/page%20pontos%20de%20coleta.PNG?raw=true)
+![](https://github.com/jucelania/Ecoleta/blob/master/src/github/page%20pontos%20de%20coleta.PNG?raw=true)
 
 ## Bibliotecas e Linguagens
 
@@ -33,4 +33,10 @@ No Front-end da aplicação foi utilizado o **HTML**, **CSS** e **Javascript** e
 - Express
 - sqlite3
 
-### End
+## <a id="licenca"></a> 🍏 Licença
+
+Released in 2020. This project is under the [MIT license](https://nodejs.org/en/download/) 
+<br>
+<br>
+🚀  FrontEnd
+ 
