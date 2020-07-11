@@ -9,3 +9,11 @@
 ## Front-end e Back-end
 
 No Front-end da aplicação foi utilizado o **HTML**, **CSS** e **Javascript** e para dar interações em todo o código utilizamos a extensão **Nunjucks** que possibilita pessoas a cadastrarem pontos de coleta e ajudar empresas de reciclagem.
+
+
+**Página Inicial:**
+
+**Cadastro de ponto de coleta:**
+
+![](https://github.com/jucelania/ecoleta/blob/master/src/github/page%20cadastro.PNG?raw=true)
+
